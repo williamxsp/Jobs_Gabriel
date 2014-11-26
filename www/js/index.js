@@ -37,29 +37,19 @@
     },
     prizes:[
     {
-        'name': 'Shampoo',
-        'image': 'Shampoo.png'
+        'name': '50 Centavos',
+        'image': 'premio1.png'
     },
 
     {
-        'name': 'Creme',
-        'image': 'Creme.png'
+        'name': 'TV',
+        'image': 'premio2.png'
     },
 
     {
-        'name': 'Máscara',
-        'image': 'Mascara.png'
-    },
-
-    {
-        'name': 'Condicionador',
-        'image': 'Condicionador.gif'
-    },
-
-    {
-        'name': 'Elizatis',
-        'image': 'Elizatis.png'
-    },
+        'name': 'Internet',
+        'image': 'premio3.png'
+    }
     ]
     ,
 
