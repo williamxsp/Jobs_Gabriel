@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.web42.jobs.evento" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <preference name="loglevel" value="DEBUG" />
+    <preference name="AndroidLaunchMode" value="singleTop" />
+    <feature name="App">
+        <param name="android-package" value="org.apache.cordova.App" />
+    </feature>
+    <name>Oi</name>
+    <description>
+        App para o evento da OI
+    </description>
+    <author email="williamxsp@gmail.com" href="http://www.web42.com.br">
+        William Martins @ Web42
+    </author>
+    <content src="index.html" />
+    <access origin="*" />
+    <preference name="orientation" value="landscape" />
+    <preference name="fullscreen" value="true" />
+</widget>

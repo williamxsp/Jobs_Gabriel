@@ -1,0 +1,3 @@
+# view AndroidManifest.xml #generated:6
+-keep class com.web42.jobs.evento.Evento { <init>(...); }
+
